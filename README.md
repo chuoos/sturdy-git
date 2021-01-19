@@ -1,2 +1,2 @@
-# sturdy-git
-git은 처음이라
+# git은 처음이라
+...
